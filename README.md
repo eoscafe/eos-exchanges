@@ -1,2 +1,2 @@
-# eos-exchanges
+# EOS Exchanges
 Tracking EOS Exchanges
