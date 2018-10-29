@@ -38,4 +38,24 @@
       "url": "https://www.gate.io/"
     }
   ]
+}, {
+  "name": "Kraken",
+  "description": "Buy, sell and margin trade Bitcoin (BTC) and Etherum (ETH) in exchange with EUR, USD, CAD, GBP, and JPY.",
+  "accounts": ["krakenkraken"],
+  "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/placeeholder.png",
+  "links": [{
+      "name": "Website",
+      "url": "https://www.kraken.com/"
+    }
+  ]
+}, {
+  "name": "Chaince",
+  "description": "A Superior Blockchain Asset Trading Platform Focusing on EOS Projects.",
+  "accounts": ["chainceoneos"],
+  "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/placeeholder.png",
+  "links": [{
+      "name": "Website",
+      "url": "https://chaince.com/"
+    }
+  ]
 }]
